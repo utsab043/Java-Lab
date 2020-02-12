@@ -56,7 +56,7 @@ for(int i=0;i<a.length;i++)//length is the property of array
 System.out.println(a[i]);  
 }} 
 ``` 
-### Output
+### Output:
 33
 3
 4
@@ -77,7 +77,7 @@ for(int i=0;i<3;i++){
 }  
 }}  
 ```
-### Output
+### Output:
 1 2 3
 2 4 5
 4 4 5
