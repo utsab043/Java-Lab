@@ -4,6 +4,7 @@
 
 ## DATA TYPES
 Data tyes specifies the different sizes and values that can be stored in the variable.It is of two types:
+
 * **Primitive data types**: It includes:
 #### 1. Integer
 Integer types can hold whole numbers such as 123 and -96. The size of the values that can be stored depends on the integer type that we choose.
@@ -27,7 +28,6 @@ It stores character constants in the memory. It assumes a size of 2 bytes, but b
 
 #### 4. Boolean
 Boolean data types are used to store values with two states: true or false.
-
 
 * **Non-primitive data types** : It includes:
 #### 1. classes 
