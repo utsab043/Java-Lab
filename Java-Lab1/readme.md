@@ -9,12 +9,11 @@ Data tyes specifies the different sizes and values that can be stored in the var
 #### 1. Integer
 Integer types can hold whole numbers such as 123 and -96. The size of the values that can be stored depends on the integer type that we choose.
 
-Type	Size	  Range of values that can be stored
-byte	1 byte	  -128 to 127
-short	2 bytes	  -32768 to 32767
-int	4 bytes	  -2,147,483,648 to 2,147,483,647
-long	8 bytes	  9,223,372,036,854,775,808 to
-                  9,223,372,036,854,755,807
+* **byte=1 byte=-128 to 127
+**short=2 byte=-32768 to 32767
+**int=4 bytes=-2,147,483,648 to 2,147,483,647
+**long=8 bytes=9,223,372,036,854,775,808 to
+                  9,223,372,036,854,755,807**
 
 #### 2. Floating Point
 Floating point data types are used to represent numbers with a fractional part. Single precision floating point numbers occupy 4 bytes and Double precision floating point numbers occupy 8 bytes. There are two subtypes:
