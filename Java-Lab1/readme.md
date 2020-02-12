@@ -1,6 +1,6 @@
 # LAB-1: DATA TYPES AND ARRAY IN JAVA
 
-# THEORY:
+## THEORY:
 
 ## DATA TYPES
 Data tyes specifies the different sizes and values that can be stored in the variable.It is of two types:
