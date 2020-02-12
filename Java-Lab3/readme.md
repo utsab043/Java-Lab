@@ -76,7 +76,7 @@ d.bark();
 d.eat();  
 }}  
 ```
-###Output:
+### Output:
 eating...
 barking...
 
@@ -101,5 +101,5 @@ public static void main(String args[]){
 }  
 }  
 ```
-###Output:
+### Output:
 running safely
