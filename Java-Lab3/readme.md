@@ -36,6 +36,11 @@ class variable{
     }
 }
 ```
+### Output:
+local variable is : 42
+instance variable is : 43
+static variable is: 39
+
 ## INHERITANCE IN JAVA
 
 Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object.
@@ -53,5 +58,48 @@ class Subclass-name extends Superclass-name
 * Single Inheritance
 * Multilevel Inheritance
 * Hierarchical Inheritance
-*
-*
+* Multiple Inheritance(It is not supported in java through class)
+* Hybrid Inheritance
+
+### Implentation of Single Inheritance
+```javascript
+class Animal{  
+void eat(){System.out.println("eating...");}  
+}  
+class Dog extends Animal{  
+void bark(){System.out.println("barking...");}  
+}  
+class TestInheritance{  
+public static void main(String args[]){  
+Dog d=new Dog();  
+d.bark();  
+d.eat();  
+}}  
+```
+###Output:
+eating...
+barking...
+
+## ABSTRACT CLASS
+
+A class which is declared with the abstract keyword is known as an abstract class in Java.
+Abstract classes cannot be instantiated, but they can be subclassed.
+
+An abstract method is a method that is declared without an implementation (without braces, and followed by a semicolon).
+
+### Example
+
+```javascript
+abstract class Bike{  
+  abstract void run();  
+}  
+class Honda4 extends Bike{  
+void run(){System.out.println("running safely");}  
+public static void main(String args[]){  
+ Bike obj = new Honda4();  
+ obj.run();  
+}  
+}  
+```
+###Output:
+running safely
