@@ -9,10 +9,10 @@ Data tyes specifies the different sizes and values that can be stored in the var
 #### 1. Integer
 Integer types can hold whole numbers such as 123 and -96. The size of the values that can be stored depends on the integer type that we choose.
 
-* **byte= size =1 byte,Range of values that can be stored=-128 to 127**
-**short=2 byte=-32768 to 32767
-**int=4 bytes=-2,147,483,648 to 2,147,483,647
-**long=8 bytes=9,223,372,036,854,775,808 to
+* **byte: size =1 byte,Range of values that can be stored=-128 to 127**
+* **short: size=2 byte,Range of values that can be stored=-32768 to 32767**
+* **int: size=4 bytes,Range of values that can be stored=-2,147,483,648 to 2,147,483,647**
+* **long: size=8 bytes,Range of values that can be stored=9,223,372,036,854,775,808 to
                   9,223,372,036,854,755,807**
 
 #### 2. Floating Point
