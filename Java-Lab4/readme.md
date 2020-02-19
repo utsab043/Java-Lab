@@ -57,7 +57,7 @@ A java package is a group of similar types of classes, interfaces and sub-packag
 
 Package in java can be categorized in two form:
 
-* Built-in Packages
+* Built-in Packages :-
 These packages consist of a large number of classes which are a part of Java API.Some of the commonly used built-in packages are:
 1) java.lang: Contains language support classes(e.g classed which defines primitive data types, math operations). This package is automatically imported.
 2)  java.io: Contains classed for supporting input / output operations.
@@ -66,7 +66,7 @@ These packages consist of a large number of classes which are a part of Java API
 5)  java.awt: Contain classes for implementing the components for graphical user interfaces (like button , ;menus etc).
 6)  java.net: Contain classes for supporting networking operations.
 
-* User-defined packages
+* User-defined packages :-
 These are the packages that are defined by the user. First we create a directory myPackage (name should be same as the name of the package). Then create the MyClass inside the directory with the first statement being the package names.
 
 ## Advantages of Java Package
