@@ -8,13 +8,13 @@ Variables are the name given to a memory location which hold the values while th
 
 ## TYPES OF VARIABLES
 
-* Local Variable
+* Local Variable:
 A variable defined within a block or method or constructor is called local variable.
 
-* Instance Variable
+* Instance Variable:
 Instance variables are non-static variables and are declared in a class outside any method, constructor or block.These variables are created when an object of the class is created and destroyed when the object is destroyed.
 
-* Static Variable
+* Static Variable:
 These variables are declared similarly as instance variables, the difference is that static variables are declared using the static keyword within a class outside any method constructor or block.
 You can create a single copy of static variable and share among all the instances of the class.
 
@@ -37,9 +37,9 @@ class variable{
 }
 ```
 ### Output:
-local variable is : 42
-instance variable is : 43
-static variable is: 39
+* local variable is : 42
+* instance variable is : 43
+* static variable is: 39
 
 ## INHERITANCE IN JAVA
 
