@@ -16,7 +16,7 @@ The classes which directly inherit Throwable class except RuntimeException and E
 * Unchecked Exception :-
 The classes which inherit RuntimeException are known as unchecked exceptions e.g. ArithmeticException, NullPointerException, ArrayIndexOutOfBoundsException etc. Unchecked exceptions are not checked at compile-time, but they are checked at runtime.
 
-* Error
+* Error :-
 Error is irrecoverable e.g. OutOfMemoryError, VirtualMachineError, AssertionError etc.
 
 ## Java Exception Keywords
