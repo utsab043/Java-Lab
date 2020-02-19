@@ -76,7 +76,7 @@ These are the packages that are defined by the user. First we create a directory
 
 * Java package removes naming collision.
 
-##Example
+## Example
 Here the two packages named package_name and package_one are the packages used in our program.
 * Package one
 ```javascript
