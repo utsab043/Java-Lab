@@ -7,7 +7,7 @@ LAB. NO | NAME OF PROGRAM | LINK
 :three: | Types of Variable,Inheritance, Abstract class |[Java-Lab3](Java-Lab3/readme.md)
 :four:| Exception Handling , Package | [Java-Lab4](Java-Lab4/readme.md)
 :five:| File Handling | [Java-Lab5](Java-Lab5/readme.md)
-:Six:| Applet | [Java-Lab6](Java-Lab6/readme.md)
+:six:| Applet | [Java-Lab6](Java-Lab6/readme.md)
 
 
 ***This repo is for Java Lab Report***\
