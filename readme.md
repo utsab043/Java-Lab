@@ -10,5 +10,5 @@ LAB. NO | NAME OF PROGRAM | LINK
 :six:| Applet | [Java-Lab6](Java-Lab6/readme.md)
 
 
-***This repo is for Java Lab Report***\
+***This repository is for Java Lab Report***\
 *Submitted to*: ***ER.Nishal Gurung***
