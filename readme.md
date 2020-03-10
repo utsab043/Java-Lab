@@ -6,16 +6,16 @@ LAB. NO | NAME OF PROGRAM | LINK
 
 :------:|:---------------:|:---:
 
-:one: | Data types and array in Java | [Lab 1](Lab1/readme.md)
+:one: | Data types and array in Java | [Java-Lab1](Java-Lab1/readme.md)
 
-:two: | Constructor in Java | [Lab 2](Lab2/readme.md)
+:two: | Constructor in Java | [Java-Lab2](Java-Lab2/readme.md)
 
-:three: | Types of Variable,Inheritance, Abstract class |[Lab 3](Lab3/readme.md)
+:three: | Types of Variable,Inheritance, Abstract class |[Java-Lab3](Java-Lab3/readme.md)
 
-:four:| Exception Handling , Package | [Lab 4](Lab4/readme.md)
+:four:| Exception Handling , Package | [Java-Lab4](Java-Lab4/readme.md)
 
-:five:| File Handling | [Lab 5](Lab5/readme.md)
-:Six:| Applet | [Lab 6](Lab6/readme.md)
+:five:| File Handling | [Java-Lab5](Java-Lab5/readme.md)
+:Six:| Applet | [Java-Lab6](Java-Lab6/readme.md)
 
 
 
