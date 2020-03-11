@@ -9,7 +9,7 @@
 * FileWriter is meant for writing streams of characters. For writing streams of raw bytes, consider using a FileOutputStream.
 * FileWriter creates the output file , if it is not present already.
 
-## Constructors:
+### Constructors:
 
 * FileWriter(File file) – Constructs a FileWriter object given a File object.
 * FileWriter (File file, boolean append) – constructs a FileWriter object given a File object.
@@ -17,7 +17,7 @@
 * FileWriter (String fileName) – constructs a FileWriter object given a file name.
 * FileWriter (String fileName, Boolean append) – Constructs a FileWriter object given a file name with a Boolean indicating whether or not to append the data written.
 
-## Methods:
+### Methods:
 
 * public void write (int c) throws IOException – Writes a single character.
 * public void write (char [] stir) throws IOException – Writes an array of characters.
@@ -34,18 +34,18 @@
 * The constructors of this class assume that the default character encoding and the default byte-buffer size are appropriate. To specify these values yourself, construct an InputStreamReader on a FileInputStream.
 * FileReader is meant for reading streams of characters. For reading streams of raw bytes, consider using a FileInputStream.
 
-## Constructors:
+### Constructors:
 
 * FileReader(File file) – Creates a FileReader , given the File to read from
 * FileReader(FileDescripter fd) – Creates a new FileReader , given the FileDescripter to read from
 * FileReader(String fileName) – Creates a new FileReader , given the name of the file to read from
 
-## Methods:
+### Methods:
 
 * public int read () throws IOException – Reads a single character. This method will block until a character is available, an I/O error occurs, or the end of the stream is reached.
 * public int read(char[] cbuff) throws IOException – Reads characters into an array. This method will block until some input is available, an I/O error occurs, or the end of the stream is reached.
 * public abstract int read(char[] buff, int off, int len) throws IOException –Reads characters into a portion of an array. This method will block until some input is available, an I/O error occurs, or the end of the stream is reached.
-#### Parameters:
+  Parameters:
 cbuf – Destination buffer
 off – Offset at which to start storing characters
 len – Maximum number of characters to read
