@@ -8,7 +8,8 @@ LAB. NO | NAME OF PROGRAM | LINK
 :four:| Exception Handling , Package | [Java-Lab4](Java-Lab4/readme.md)
 :five:| File Handling | [Java-Lab5](Java-Lab5/readme.md)
 :six:| Applet | [Java-Lab6](Java-Lab6/readme.md)
-
+:seven:| AWT Components | [Java-Lab7](Java-Lab7/readme.md)
+:eight:| Event handeling | [Java-Lab8](Java-Lab8/readme.md)
 
 ***This repository is for Java Lab Report***\
 *Submitted to*: ***ER.Nishal Gurung***
